@@ -1,6 +1,6 @@
 package com.dodo.project.base.exception.bean;
 
-/**
+/*
  * <b>RestResponseResult</b></br>
  *
  * <pre>

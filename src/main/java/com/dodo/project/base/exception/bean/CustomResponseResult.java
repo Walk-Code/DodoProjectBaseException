@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
+/*
  * <b>CustomResponseResult</b></br>
  *
  * <pre>
@@ -18,7 +18,7 @@ import java.util.Map;
 public class CustomResponseResult implements Serializable {
 	private Map<String, Object> customMap;
 
-	/**
+	/*
 	 * @Description: 自定义响应结果
 	 * @Author: walk_code walk_code@163.com
 	 * @Param: [column, value]
@@ -38,5 +38,4 @@ public class CustomResponseResult implements Serializable {
 
 		return this.customMap;
 	}
-
 }
